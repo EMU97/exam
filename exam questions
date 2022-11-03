@@ -1,0 +1,45 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    //Variable declaration
+    A,V,r,h,n;
+
+    //Variable initialization
+    const n = 3.141592;
+    r = 
+    h =
+    A = 2*n*r*h+2*n*r*r;
+    V= n*r*r*;
+
+    
+    //operations
+    cout<<"Area given that r is_ and h is_ is:"<< A <<endl;
+    cout<<"Volume given that r is_ and h is_ is:"<< V <<endl;
+
+    return 0;
+
+
+}
+
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    //Variable declaration
+    temperature,celcius,fahrenheit;
+
+    //Variable initialization
+    celcius= 5.0/9.0*(f-32.0);
+    temperature=t;
+    fahrenheit= f;
+
+    //operations
+    cout<<"Given that temperature is"<< t << "celcius is:"<< 5.0/9.0*(f-32.0)<<endl;
+   
+    return 0;
+
+
+}
